@@ -9,7 +9,7 @@ This repository contains the official code implementation of our ACL 2026 main c
 
 ~~The code is currently being organized and will be open-sourced soon.~~
 
-We apologize for the delay in releasing the code. The first author has recently been occupied with fall recruitment and job-search preparations, which has slowed down the code organization process. Thank you for your patience and understanding.
+We apologize for the delayed release. Due to the first author's recent commitments related to fall recruitment and job searching, the code was open-sourced later than originally planned. As the repository was prepared on a relatively tight schedule, some parts may still require further refinement. We will continue to improve the code and documentation. Thank you for your understanding.
 
 ## 📖 Citation
 
